@@ -35,3 +35,9 @@ Juego educativo desarrollado en Unity para practicar operaciones con números de
 * C#
 * TextMeshPro
 
+## Documentación
+La documentación del proyecto se encuentra en la carpeta `/docs`:
+
+- Manual de Usuario
+- Manual del Desarrollador
+
